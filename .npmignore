@@ -1,6 +1,0 @@
-src
-webpack.common.ts
-webpack.dev.ts
-webpack.prod.ts
-.eslintignore
-.eslintrc
